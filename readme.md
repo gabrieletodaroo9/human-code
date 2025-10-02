@@ -1,15 +1,15 @@
 <!-- QUESITO -->
 
-Ordinare una pizza
+# Ordinare una pizza
 Tu non hai fame?!
 Dopo una lunga giornata passata al pc, ho proprio voglia di concedermi una bella pizza succulenta! Sì, ma quale? Fammi dare un occhio al listino… Va beh, è inutile, tanto alla fine ordino sempre la stessa: una classica prosciutto e funghi. La pizza arriva ancora fumante, chissà se riuscirò a mangiarla tutta!
 Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come l’ultima volta! 
 
 <!--  SOLUZIONE -->
 
-- Scelgo la pizza
+## Scelgo la pizza
    - Scorro il listino FINTANTO CHE non trovo la prosciutto e funghi 
-- Ordino la pizza
+## Ordino la pizza
    - SE ho il telefono vicino
       - Lo prendo
       - Chiamo la pizzeria
@@ -20,7 +20,7 @@ Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come 
       - Completo ordine 
     
     
-- Ritiro la pizza
+## Ritiro la pizza
    - Aspetto FINTANTO CHE il fattorino non suona il campanello
    - Mi alzo dalla scrivania
    - Prendo i soldi
@@ -29,7 +29,7 @@ Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come 
 
 
    
-- Ceno
+## Ceno
    - Vado in cucina
    - Apparecchio
    - Mangio la pizza
